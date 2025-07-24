@@ -7,10 +7,10 @@ using Statistics
 using BenchmarkTools
 
 
-include("Variable Globales VRP best.jl")
+include("Variables Globales VRP best.jl")
 include("Operateur VRP best.jl")
 #include("Instances_generees/inst_N4_W0106_M5_P40_Id0_TD30_DistOrig.jl")
-include("Instances_generees/inst_N4_W0106_M5_P40_Id2_TD30_DistOrig.jl")
+include("Instances/inst_N4_W0106_M5_P40_Id2_TD30_DistOrig.jl")
 #include("Instances_generees/inst_N5_W0106_M8_P60_Id2_TD30_DistOrig.jl")
 #include("Instances_generees/inst_N11_W0106_M10_P128_Id0_TD30_DistOrig.jl")
 

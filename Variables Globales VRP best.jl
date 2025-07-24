@@ -1,7 +1,7 @@
 # Dossier contenant les fonctions sur les variables globales pour le VRP
 #
 #
-include("Instances_generees/inst_N4_W0106_M8_P40_Id2_TD30_DistOrig.jl") # pour les tests
+include("Instances/inst_N4_W0106_M8_P40_Id2_TD30_DistOrig.jl") # pour les tests
 
 
 # Fonction qui permet de créer la variable G associé au chemin S

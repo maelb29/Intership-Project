@@ -1,5 +1,5 @@
 using Random
-include("Variable Globales VRP best.jl") 
+include("Variables Globales VRP best.jl") 
 # include("Instances_generees/inst_N4_W0106_M8_P40_Id2_TD30_DistOrig.jl") # sert uniquement pour les tests
 
 
